@@ -1,0 +1,18 @@
+<script>
+    //  js dhukbe ekhane
+</script>
+
+<header>
+    <!-- html boshbe ekhane -->
+    <nav
+        class="
+    // css boshbe ekhane
+     "
+    >
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/contact">Contact</a></li>
+        </ul>
+    </nav>
+</header>
