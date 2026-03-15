@@ -2,17 +2,16 @@
     //  js dhukbe ekhane
 </script>
 
-<header>
-    <!-- html boshbe ekhane -->
-    <nav
-        class="
-    // css boshbe ekhane
-     "
-    >
-        <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/about">About</a></li>
-            <li><a href="/contact">Contact</a></li>
-        </ul>
-    </nav>
+
+<header class="bg-black text-white p-4">
+  <h1 class="text-xl font-bold">Luxury Store</h1>
+  <nav>
+    <ul class="flex gap-4">
+        <li class="text-white p-2"><a href="/">Home</a></li>
+        <li class="text-white p-2"><a href="/about">About</a></li>
+        <li class="text-white p-2"><a href="/contact">Contact</a></li>
+    </ul>
+  </nav>
+
 </header>
+
